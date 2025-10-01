@@ -9,14 +9,16 @@ _O usuário informa:
    - Nome do destinatário
    - Data do encontro
    - Seu nome
-_O programa lê o arquivo `template.txt` (onde ficam as variáveis entre {chaves}).
-_Substitui essas variáveis pelos dados digitados.
-_Cria um novo arquivo de saída em `saida_emails/`, com um nome único para cada execução.
+O programa lê o arquivo `template.txt` (onde ficam as variáveis entre {chaves}).
+
+Substitui essas variáveis pelos dados digitados.
+
+Cria um novo arquivo de saída em `saida_emails`, com um nome único para cada execução.
 
 Exemplo de template:
-_Olá {nome_destinatario},
+Olá {nome_destinatario},
 
 Este é um lembrete do nosso encontro no dia {data}.
 
 Atenciosamente,  
-{meu_nome}_
+{meu_nome}
