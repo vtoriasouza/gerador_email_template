@@ -1,0 +1,6 @@
+Olá {nome_destinatario},
+
+Este é um lembrete do nosso encontro no dia {data}.
+
+Atenciosamente,  
+{meu_nome}
