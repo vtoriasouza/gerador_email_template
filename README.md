@@ -5,7 +5,7 @@ A ideia é evitar retrabalho: em vez de escrever sempre a mesma mensagem, você 
 
 ## Como funciona? 
 
-_O usuário informa:
+O usuário informa:
    - Nome do destinatário
    - Data do encontro
    - Seu nome
